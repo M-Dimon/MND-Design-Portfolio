@@ -31,3 +31,11 @@
   background-color: #42576b;
   color: white;
 }
+.header-container {
+  grid-area: header;
+  width: 100%;
+  position: absolute;
+  margin: auto;
+}
+.slidebar {display: none}
+img {vertical-align: middle;}
