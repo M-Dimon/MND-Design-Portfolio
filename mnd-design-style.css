@@ -1,0 +1,25 @@
+.wrapper {
+  display: grid;
+  grid-template: 1fr 1.5fr 1.5fr 1fr;
+  grid-row: 30px 500px auto;
+  grid-template-areas:
+  "nav nav nav nav"
+  "header header header header"
+  "content content content content"
+  "footer footer footer footer"
+}
+.top-nav {
+  grid-area: nav;
+  position: fixed;
+  overflow: hidden;
+  background-color: #292727;
+  width: 100%
+}
+.top-nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px
+}
