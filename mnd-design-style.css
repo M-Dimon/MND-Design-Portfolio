@@ -186,3 +186,26 @@ input[type=submit]:hover {
   background-color: #292727;
   color: #eeeeee;
 }
+.wrapper_single_proj {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
+    grid-template-rows: 30px 550px 500px auto;
+    grid-template-areas:
+    "nav nav nav nav nav"
+    "header header header header header"
+    "pleft project project project pright"
+    "footer footer footer footer footer";
+  }
+.project-container {
+    grid-area: project;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+  }
+  .side-project-left {
+    grid-area: pleft;
+  }
+  .side-project-right {
+    grid-area: pright;
+  }
