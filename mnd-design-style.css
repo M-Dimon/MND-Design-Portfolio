@@ -1,21 +1,18 @@
 .wrapper {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
-  grid-template-rows: 30px 500px auto;
+  grid-template-rows: 30px 500px 500px auto;
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
   "aleft about-pic content content aright"
-  "aleft bcontent bcontent bcontent aright"
-  "aleft con-text contact contact aright"
+  "bcontent bcontent bcontent bcontent bcontent"
+  "aleft1 con-text contact contact aright1"
   "footer footer footer footer footer"
 }
 * body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-}
-* div {
-  border: 3px solid black;
 }
 .top-nav {
   grid-area: nav;
@@ -43,9 +40,10 @@
 .header-container {
   grid-area: header;
   width: 100%;
+  height: 500px;
   position: absolute;
   margin: auto;
-  transform: translateY(48px);
+  border: 5px solid #292727;
 }
 .headertext {
   color: #f2f2f2;
@@ -74,7 +72,7 @@
   text-align: center;
 }
 .headshot {
-  border-radius: 50px;
+  border-radius: 50%;
   border: 5px solid black;
 }
 .aside-left {
@@ -85,14 +83,59 @@
 }
 .competence {
   grid-area: bcontent;
+  background-color: lightsteelblue;
+  text-align: center;
+  border-top: 3px solid #292727;
+  border-bottom: 3px solid #292727;
+
 
 }
 .contact-text {
   grid-area: con-text;
+  text-align: center;
+  justify-content: center;
+}
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #292727;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #42576b;
 }
 .contact {
   grid-area: contact;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.contact h1 {
+  text-align: center;
+}
+
+.aside-left1 {
+  grid-area: aleft1;
+}
+
+.aside-right1 {
+  grid-area: aright1;
 }
 .footer {
   grid-area: footer;
+  text-align: center;
+  background-color: #292727;
+  color: #eeeeee;
 }
