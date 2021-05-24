@@ -5,8 +5,9 @@
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
-  "aleft content content content aright"
-  "bcontent bcontent bcontent bcontent bcontent"
+  "aleft about-pic content content aright"
+  "aleft bcontent bcontent bcontent aright"
+  "aleft con-text contact contact aright"
   "footer footer footer footer footer"
 }
 .top-nav {
@@ -39,6 +40,9 @@
   margin: auto;
 }
 
+.about-pic {
+  grid-area: about-pic;
+}
 .about {
   grid-area: content
   position: fixed;
@@ -54,7 +58,12 @@
   grid-area: bcontent;
 
 }
-
+.contact-text {
+  grid-area: con-text;
+}
+.contact {
+  grid-area: contact;
+}
 .footer {
   grid-area: footer;
 }
