@@ -1,13 +1,13 @@
 .wrapper {
   display: grid;
-  grid-template: 1fr 1fr 1.5fr 1fr;
+  grid-template: 0.7fr 1fr 1fr 1fr 0.7fr;
   grid-row: 30px 500px auto;
   grid-template-areas:
-  "nav nav nav nav"
-  "header header header header"
-  "aside aside content content"
-  "bcontent bcontent bcontent bcontent"
-  "footer footer footer footer"
+  "nav nav nav nav nav"
+  "header header header header header"
+  "aleft content content content aright"
+  "bcontent bcontent bcontent bcontent bcontent"
+  "footer footer footer footer footer"
 }
 .top-nav {
   grid-area: nav;
@@ -45,9 +45,11 @@
 }
 
 .aside-left {
-  grid-area: aside;
+  grid-area: aleft;
 }
-
+.aside-right {
+  grid-area: aright;
+}
 .competence {
   grid-area: bcontent;
 
