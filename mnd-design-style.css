@@ -58,6 +58,7 @@
 }
 .about p {
   font-size: 25px;
+  vertical-align: middle;
 }
 .headshot {
   border-radius: 50%;
