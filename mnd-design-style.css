@@ -41,15 +41,15 @@
   grid-area: header;
   width: 100%;
   height: 500px;
-  position: absolute;
+  position: static;
   margin: auto;
-  border: 5px solid #292727;
+  border-bottom: 5px solid #292727;
 }
 .headertext {
   color: #f2f2f2;
   font-size: 100px;
   padding: 8px 8px;
-  position: absolute;
+  position: static;
   bottom: 120px;
   width: 100%;
   text-align: center;
@@ -58,7 +58,7 @@
   color: #f2f2f2;
   font-size: 40px;
   padding: 8px 12px;
-  position: absolute;
+  position: static;
   bottom: 80px;
   width: 100%;
   text-align: center;
@@ -66,14 +66,16 @@
 .about-pic {
   grid-area: about-pic;
   text-align: center;
+  padding-left: 10px;
 }
 .about {
   grid-area: content;
   text-align: center;
+  padding: 10px;
 }
 .headshot {
   border-radius: 50%;
-  border: 5px solid black;
+  border: 5px solid #292727;
 }
 .aside-left {
   grid-area: aleft;
@@ -85,8 +87,8 @@
   grid-area: bcontent;
   background-color: lightsteelblue;
   text-align: center;
-  border-top: 3px solid #292727;
-  border-bottom: 3px solid #292727;
+  border-top: 5px solid #292727;
+  border-bottom: 5px solid #292727;
 
 
 }
