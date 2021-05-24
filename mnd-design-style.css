@@ -11,7 +11,14 @@
   "footer footer footer footer footer"
 }
 .wrapper_proj {
-
+  display: grid;
+  grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
+  grid-template-rows: 30px 550px 500px auto;
+  grid-template-areas:
+  "nav nav nav nav nav"
+  "header header header header header"
+  "aleft projects projects projects aright"
+  "footer footer footer footer footer"
 }
 * body {
   margin: 0;
