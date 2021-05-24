@@ -6,6 +6,7 @@
   "nav nav nav nav"
   "header header header header"
   "aside aside content content"
+  "bcontent bcontent bcontent bcontent"
   "footer footer footer footer"
 }
 .top-nav {
@@ -45,4 +46,13 @@
 
 .aside-left {
   grid-area: aside;
+}
+
+.competence {
+  grid-area: bcontent;
+
+}
+
+.footer {
+  grid-area: footer;
 }
