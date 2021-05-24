@@ -37,5 +37,8 @@
   position: absolute;
   margin: auto;
 }
-.slidebar {display: none}
-img {vertical-align: middle;}
+
+.about {
+  grid-area: content
+  position: fixed;
+}
