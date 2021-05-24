@@ -84,7 +84,9 @@
 }
 .competence {
   grid-area: comp;
-  background-color: lightsteelblue;
+  background-color: #42576b;
+  text-decoration: underline;
+  color: #eeeeee;
   text-align: center;
   border-top: 5px solid #292727;
   border-bottom: 5px solid #292727;
@@ -95,7 +97,6 @@
   justify-content: center;
 
 }
-
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -173,7 +174,6 @@ input[type=submit]:hover {
   flex: 25%;
   padding: 0 4px;
 }
-
 .column_abou embed {
   margin-top: 8px;
   vertical-align: middle;
