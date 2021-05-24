@@ -129,6 +129,13 @@ input[type=submit]:hover {
 .aside-right1 {
   grid-area: aright1;
 }
+.projects {
+  grid-area: projects;
+}
+.projects h1 {
+  text-align: center;
+  text-decoration: underline;
+}
 .row {
   display: -ms-flexbox;
   display: flex;
@@ -137,14 +144,19 @@ input[type=submit]:hover {
   padding: 0 4px;
 }
 .column {
-  -ms-flex: 50%;
-  flex: 50%;
+  -ms-flex: 25%;
+  flex: 25%;
   padding: 0 4px;
 }
-
 .column img {
   margin-top: 8px;
   vertical-align: middle;
+  border: 5px solid #292727;
+}
+.column embed {
+  margin-top: 8px;
+  vertical-align: middle;
+  border: 5px solid #292727;
 }
 .footer {
   grid-area: footer;
