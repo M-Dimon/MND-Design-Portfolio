@@ -1,4 +1,4 @@
-.wrapper {
+.wrapper_abou {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
   grid-template-rows: 30px 550px 500px auto;
@@ -9,6 +9,9 @@
   "bcontent bcontent bcontent bcontent bcontent"
   "aleft1 con-text contact contact aright1"
   "footer footer footer footer footer"
+}
+.wrapper_proj {
+
 }
 * body {
   margin: 0;
@@ -58,7 +61,6 @@
 }
 .about p {
   font-size: 25px;
-  vertical-align: middle;
 }
 .headshot {
   border-radius: 50%;
@@ -114,13 +116,28 @@ input[type=submit]:hover {
 .contact h1 {
   text-align: center;
 }
-
 .aside-left1 {
   grid-area: aleft1;
 }
-
 .aside-right1 {
   grid-area: aright1;
+}
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column {
+  -ms-flex: 50%;
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
 }
 .footer {
   grid-area: footer;
