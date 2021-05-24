@@ -13,13 +13,14 @@
 * body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  color: #292727;
 }
 .top-nav {
   grid-area: nav;
   position: fixed;
   overflow: hidden;
   background-color: #292727;
-  width: 100%
+  width: 100%;
 }
 .top-nav a {
   float: left;
