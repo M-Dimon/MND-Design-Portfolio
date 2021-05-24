@@ -56,7 +56,6 @@
   width: 100%;
   text-align: center;
 }
-
 .subheader {
   color: #f2f2f2;
   font-size: 40px;
@@ -68,11 +67,16 @@
 }
 .about-pic {
   grid-area: about-pic;
+  text-align: center;
 }
 .about {
   grid-area: content;
+  text-align: center;
 }
-
+.headshot {
+  border-radius: 50px;
+  border: 5px solid black;
+}
 .aside-left {
   grid-area: aleft;
 }
