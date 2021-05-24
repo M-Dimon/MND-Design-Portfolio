@@ -1,4 +1,4 @@
-.wrapper_abou {
+.wrapper_about {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
   grid-template-rows: 30px 540px 500px 500px auto;
@@ -10,7 +10,7 @@
   "aleft1 con-text contact contact aright1"
   "footer footer footer footer footer"
 }
-.wrapper_proj {
+.wrapper_project {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
   grid-template-rows: 30px 520px auto;
@@ -91,6 +91,32 @@
   border-top: 5px solid #292727;
   border-bottom: 5px solid #292727;
 }
+.code_container{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.draw_container{
+  position: relative;
+  text-align: center;
+  color: black;
+
+}
+.photo_container{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.centered_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered_text b {
+  font-size: 40px;
+  color: #bba488;
+}
 .contact-text {
   grid-area: con-text;
   text-align: center;
@@ -162,19 +188,19 @@ input[type=submit]:hover {
   vertical-align: middle;
   border: 5px solid #292727;
 }
-.row_abou {
+.row_about {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 0 4px;
 }
-.column_abou {
+.column_about {
   -ms-flex: 25%;
   flex: 25%;
   padding: 0 4px;
 }
-.column_abou embed {
+.column_about embed {
   margin-top: 8px;
   vertical-align: middle;
   border-radius: 50%;
@@ -186,7 +212,7 @@ input[type=submit]:hover {
   background-color: #292727;
   color: #eeeeee;
 }
-.wrapper_single_proj {
+.wrapper_single_project {
     display: grid;
     grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
     grid-template-rows: 30px 550px auto;
