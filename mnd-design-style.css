@@ -1,12 +1,12 @@
 .wrapper_abou {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
-  grid-template-rows: 30px 550px 500px 320px auto;
+  grid-template-rows: 30px 540px 500px 500px auto;
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
   "aleft about-pic content content aright"
-  "bcontent bcontent bcontent bcontent bcontent"
+  "comp comp comp comp comp"
   "aleft1 con-text contact contact aright1"
   "footer footer footer footer footer"
 }
@@ -83,7 +83,7 @@
   grid-area: aright;
 }
 .competence {
-  grid-area: bcontent;
+  grid-area: comp;
   background-color: lightsteelblue;
   text-align: center;
   border-top: 5px solid #292727;
@@ -95,10 +95,7 @@
   justify-content: center;
 
 }
-.draw embed {
-  border-radius: 50%;
-  border: 5px solid #292727;
-}
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
@@ -162,6 +159,25 @@ input[type=submit]:hover {
 .column embed {
   margin-top: 8px;
   vertical-align: middle;
+  border: 5px solid #292727;
+}
+.row_abou {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column_abou {
+  -ms-flex: 25%;
+  flex: 25%;
+  padding: 0 4px;
+}
+
+.column_abou embed {
+  margin-top: 8px;
+  vertical-align: middle;
+  border-radius: 50%;
   border: 5px solid #292727;
 }
 .footer {
