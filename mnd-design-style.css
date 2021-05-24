@@ -1,7 +1,7 @@
 .wrapper_abou {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
-  grid-template-rows: 30px 550px 500px auto;
+  grid-template-rows: 30px 550px 500px 320px auto;
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
@@ -70,7 +70,7 @@
   text-decoration: underline;
 }
 .about p {
-  font-size: 25px;
+  font-size: 20px;
 }
 .headshot {
   border-radius: 50%;
@@ -88,14 +88,16 @@
   text-align: center;
   border-top: 5px solid #292727;
   border-bottom: 5px solid #292727;
-
-
 }
 .contact-text {
   grid-area: con-text;
   text-align: center;
   justify-content: center;
-   
+
+}
+.draw embed {
+  border-radius: 50%;
+  border: 5px solid #292727;
 }
 input[type=text], select, textarea {
   width: 100%;
