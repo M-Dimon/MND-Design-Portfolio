@@ -1,7 +1,7 @@
 .wrapper {
   display: grid;
-  grid-template: 0.7fr 1fr 1fr 1fr 0.7fr;
-  grid-row: 30px 500px auto;
+  grid-template-columns: 0.7fr 1fr 1fr 1fr 0.7fr;
+  grid-template-rows: 30px 500px auto;
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
@@ -9,6 +9,13 @@
   "aleft bcontent bcontent bcontent aright"
   "aleft con-text contact contact aright"
   "footer footer footer footer footer"
+}
+* body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+* div {
+  border: 3px solid black;
 }
 .top-nav {
   grid-area: nav;
@@ -38,14 +45,32 @@
   width: 100%;
   position: absolute;
   margin: auto;
+  transform: translateY(48px);
+}
+.headertext {
+  color: #f2f2f2;
+  font-size: 100px;
+  padding: 8px 8px;
+  position: absolute;
+  bottom: 120px;
+  width: 100%;
+  text-align: center;
 }
 
+.subheader {
+  color: #f2f2f2;
+  font-size: 40px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 80px;
+  width: 100%;
+  text-align: center;
+}
 .about-pic {
   grid-area: about-pic;
 }
 .about {
-  grid-area: content
-  position: fixed;
+  grid-area: content;
 }
 
 .aside-left {
