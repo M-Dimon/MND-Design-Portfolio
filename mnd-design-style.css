@@ -46,24 +46,7 @@
   margin: auto;
   border-bottom: 5px solid #292727;
 }
-.headertext {
-  color: #f2f2f2;
-  font-size: 100px;
-  padding: 8px 8px;
-  position: static;
-  bottom: 120px;
-  width: 100%;
-  text-align: center;
-}
-.subheader {
-  color: #f2f2f2;
-  font-size: 40px;
-  padding: 8px 12px;
-  position: static;
-  bottom: 80px;
-  width: 100%;
-  text-align: center;
-}
+
 .about-pic {
   grid-area: about-pic;
   text-align: center;
