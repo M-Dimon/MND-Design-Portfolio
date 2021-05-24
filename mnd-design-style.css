@@ -1,11 +1,11 @@
 .wrapper {
   display: grid;
-  grid-template: 1fr 1.5fr 1.5fr 1fr;
+  grid-template: 1fr 1fr 1.5fr 1fr;
   grid-row: 30px 500px auto;
   grid-template-areas:
   "nav nav nav nav"
   "header header header header"
-  "content content content content"
+  "aside aside content content"
   "footer footer footer footer"
 }
 .top-nav {
@@ -41,4 +41,8 @@
 .about {
   grid-area: content
   position: fixed;
+}
+
+.aside-left {
+  grid-area: aside;
 }
