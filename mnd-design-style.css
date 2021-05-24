@@ -200,9 +200,14 @@ input[type=submit]:hover {
     grid-area: project;
     width: 100%;
     height: auto;
-    text-align: center;
     margin: auto;
   }
+.project-container h1 {
+  text-align: center;
+}
+.project-container p {
+  text-align: left;
+}
   .side-project-left {
     grid-area: pleft;
   }
