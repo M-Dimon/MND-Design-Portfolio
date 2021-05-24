@@ -1,6 +1,6 @@
 .wrapper {
   display: grid;
-  grid-template-columns: 0.7fr 1fr 1fr 1fr 0.7fr;
+  grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
   grid-template-rows: 30px 500px auto;
   grid-template-areas:
   "nav nav nav nav nav"
