@@ -1,7 +1,7 @@
 .wrapper {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
-  grid-template-rows: 30px 500px 500px auto;
+  grid-template-rows: 30px 550px 500px auto;
   grid-template-areas:
   "nav nav nav nav nav"
   "header header header header header"
@@ -46,7 +46,6 @@
   margin: auto;
   border-bottom: 5px solid #292727;
 }
-
 .about-pic {
   grid-area: about-pic;
   text-align: center;
@@ -56,6 +55,9 @@
   grid-area: content;
   text-align: center;
   padding: 10px;
+}
+.about p {
+  font-size: 25px;
 }
 .headshot {
   border-radius: 50%;
