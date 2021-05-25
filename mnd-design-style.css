@@ -175,6 +175,7 @@
   margin-top: 8px;
   vertical-align: middle;
   border: 5px solid #292727;
+  max-width: 98%;
 }
 .row_about {
   display: -ms-flexbox;
@@ -415,6 +416,7 @@
     margin-top: 8px;
     vertical-align: middle;
     border: 5px solid #292727;
+    max-width: 98%;
   }
   .row_about {
     display: -ms-flexbox;
