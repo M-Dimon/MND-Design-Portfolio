@@ -67,6 +67,7 @@
   padding: 10px;
 }
 .about h1 {
+  font-size: 40px;
   text-decoration: underline;
 }
 .about p {
@@ -88,11 +89,14 @@
 .competence {
   grid-area: comp;
   background-color: #42576b;
-  text-decoration: underline;
   color: #eeeeee;
   text-align: center;
   border-top: 5px solid #292727;
   border-bottom: 5px solid #292727;
+}
+.competence h1 {
+  font-size: 40px;
+  text-decoration: underline;
 }
 .code_container{
   position: relative;
