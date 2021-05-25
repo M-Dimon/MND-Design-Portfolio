@@ -131,15 +131,7 @@
 .contact-text p {
   font-size: 20px;
 }
-.contact {
-  grid-area: contact;
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-.contact h1 {
-  text-align: center;
-}
+
 .aside-left1 {
   grid-area: aleft1;
 }
