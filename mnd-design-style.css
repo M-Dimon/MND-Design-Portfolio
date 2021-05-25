@@ -182,6 +182,7 @@ input[type=submit]:hover {
   margin-top: 8px;
   vertical-align: middle;
   border: 5px solid #292727;
+  max-width: 98%;
 }
 .column embed {
   margin-top: 8px;
