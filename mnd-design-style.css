@@ -148,6 +148,7 @@
 .projects h1 {
   text-align: center;
   text-decoration: underline;
+  font-size: 40px;
 }
 .row {
   display: -ms-flexbox;
