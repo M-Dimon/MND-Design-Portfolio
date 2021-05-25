@@ -292,7 +292,7 @@
     height: 100%;
     position: static;
     margin: auto;
-    border-bottom: 5px solid #292727;
+    border-bottom: 2px solid #292727;
   }
   .header-container embed {
     max-width: 100%;
@@ -320,7 +320,7 @@
   }
   .headshot {
     border-radius: 50%;
-    border: 5px solid #292727;
+    border: 2px solid #292727;
     max-width: 80%;
     max-height: 60%;
     margin-top: 10%;
@@ -336,8 +336,8 @@
     background-color: #42576b;
     color: #eeeeee;
     text-align: center;
-    border-top: 5px solid #292727;
-    border-bottom: 5px solid #292727;
+    border-top: 2px solid #292727;
+    border-bottom: 2px solid #292727;
   }
   .competence h1 {
     font-size: 15px;
@@ -409,13 +409,13 @@
   .column img {
     margin-top: 8px;
     vertical-align: middle;
-    border: 5px solid #292727;
+    border: 2px solid #292727;
     max-width: 98%
   }
   .column embed {
     margin-top: 8px;
     vertical-align: middle;
-    border: 5px solid #292727;
+    border: 2px solid #292727;
     max-width: 98%;
   }
   .row_about {
@@ -435,7 +435,7 @@
     margin-top: 8px;
     vertical-align: middle;
     border-radius: 50%;
-    border: 5px solid #292727;
+    border: 2px solid #292727;
     max-width: 50%;
     max-height: 80%;
   }
