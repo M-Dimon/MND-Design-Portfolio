@@ -221,6 +221,7 @@
 }
 .project-container p {
   text-align: left;
+  font-size: 20px;
 }
   .side-project-left {
     grid-area: pleft;
