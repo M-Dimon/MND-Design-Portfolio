@@ -31,6 +31,7 @@
   overflow: hidden;
   background-color: #292727;
   width: 100%;
+  z-index: 1;
 }
 .top-nav a {
   float: left;
@@ -60,6 +61,8 @@
   max-width: 100%;
   max-height: 100%;
   transform: translateY(15px);
+  position: static;
+  z-index: -1;
 }
 .about-pic {
   grid-area: about-pic;
