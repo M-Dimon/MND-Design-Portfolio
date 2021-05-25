@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.572" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bf2a2d"/>
+      <stop offset="1" stop-color="#540001"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.5" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#540001"/>
+      <stop offset="1" stop-color="#2b0000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Profil">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="Profil" clip-path="url(#clip-Profil)">
+    <rect width="428" height="926" fill="#fbfbfb"/>
+    <g id="Navigation_Bar" data-name="Navigation Bar">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="428" height="20" fill="#fff"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="428" height="100" transform="translate(0 20)" fill="url(#linear-gradient)"/>
+      <text id="App_navn" data-name="App navn" transform="translate(215 83)" fill="#fff" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-91.113" y="0">App navn</tspan></text>
+      <g id="Backward_arrow" data-name="Backward arrow" transform="translate(10 67)">
+        <path id="Path_10" data-name="Path 10" d="M20.395,0,16.687,3.708,30.724,17.746H0v5.3H30.724L16.687,37.081l3.708,3.708L40.789,20.395Z" transform="translate(40.789 40.789) rotate(180)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Progress_Bar" data-name="Progress Bar" transform="translate(0 120)">
+      <path id="Track_-_total" data-name="Track - total" d="M0,0H424" transform="translate(4)" fill="none" stroke="#ec9ea0" stroke-linecap="round" stroke-width="10"/>
+      <path id="Track_-_active" data-name="Track - active" d="M0,0H214" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+    </g>
+    <g id="User_icon" data-name="User icon" transform="translate(0 -3)">
+      <rect id="Rectangle_122" data-name="Rectangle 122" width="202" height="37" rx="10" transform="translate(113 445)" fill="url(#linear-gradient-2)"/>
+      <text id="Vælg_profil_billed" data-name="Vælg profil billed" transform="translate(121 453)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-81.113" y="18">Vælg profil billed</tspan></text>
+      <g id="Billed" transform="translate(0 -26)">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(67 173)" fill="#ec9ea0" stroke="#707070" stroke-width="1">
+          <ellipse cx="147" cy="141.5" rx="147" ry="141.5" stroke="none"/>
+          <ellipse cx="147" cy="141.5" rx="146.5" ry="141" fill="none"/>
+        </g>
+        <path id="Path_12" data-name="Path 12" d="M664.114,196.857,635.58,207.829l-17.99,21.944v26.821l8.4,18.287,9.595,12.191,13.534,5.833,21,1.707,21-7.54,12.6-12.191,10.918-18.287L710,229.773l-13.018-21.944Z" transform="translate(-453 34.415)" fill="#f6f6f6"/>
+        <path id="Path_13" data-name="Path 13" d="M129.033,377.078l10.678-12.045,15.2-9.034,18.892-5.646h9.035l13.553,3.011h15.2s7.393.753,9.035,0,10.268-4.517,10.268-4.517l12.321,1.506L255.94,356l12.732,4.517,9.857,7.528,6.571,9.034-9.446,10.163L262.922,397.4l-13.142,5.646-13.553,6.4-18.071,1.506H196.388L177.5,409.448l-14.375-6.4L152.854,397.4l-15.2-7.152Z" transform="translate(7.839)" fill="#fff"/>
+        <path id="Icon_awesome-user-circle" data-name="Icon awesome-user-circle" d="M134.274.563C60.1.563,0,58.361,0,129.7S60.1,258.831,134.274,258.831s134.274-57.8,134.274-129.134S208.449.563,134.274.563Zm0,49.987c26.313,0,47.646,20.516,47.646,45.822s-21.332,45.822-47.646,45.822S86.628,121.678,86.628,96.372,107.961,50.55,134.274,50.55Zm0,179.122A105.454,105.454,0,0,1,54.955,194.16a60.7,60.7,0,0,1,53.331-31.138,13.734,13.734,0,0,1,3.844.573,70.04,70.04,0,0,0,44.289,0,13.734,13.734,0,0,1,3.844-.573,60.7,60.7,0,0,1,53.331,31.138A105.454,105.454,0,0,1,134.274,229.672Z" transform="translate(80.123 184.425)" fill="#944e50" stroke="#540001" stroke-width="10"/>
+      </g>
+    </g>
+    <g id="Bio_boks" data-name="Bio boks">
+      <g id="Rectangle_124" data-name="Rectangle 124" transform="translate(67 564)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+        <rect width="294" height="158" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="291" height="155" rx="8.5" fill="none"/>
+      </g>
+      <text id="Her_kan_du_skrive_en_lille_introduktion_hvor_du_fortæller_om_dig_selv._" data-name="Her kan du skrive en lille introduktion, hvor du fortæller om dig selv. " transform="translate(72 572)" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="23.725" y="18">Her kan du skrive en lille </tspan><tspan x="40.458" y="41">introduktion, hvor du </tspan><tspan x="40.609" y="64">fortæller om dig selv. </tspan></text>
+    </g>
+    <g id="Min_Bio" data-name="Min Bio">
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="227" height="37" rx="10" transform="translate(101 519)" fill="url(#linear-gradient-3)"/>
+      <text id="Min_biografi" data-name="Min biografi" transform="translate(122 527)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-56.66" y="18">Min biografi</tspan></text>
+    </g>
+    <g id="Videre" transform="translate(51 739)">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="327" height="48" fill="url(#linear-gradient-3)"/>
+      <text id="Opret_Bruger" data-name="Opret Bruger" transform="translate(163 33)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-37.988" y="0">Videre</tspan></text>
+    </g>
+  </g>
+</svg>

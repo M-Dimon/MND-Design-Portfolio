@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.5" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bf2a2d"/>
+      <stop offset="1" stop-color="#540001"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.572" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Opret_bruger">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="Opret_bruger" data-name="Opret bruger" clip-path="url(#clip-Opret_bruger)">
+    <rect width="428" height="926" fill="#fbfbfb"/>
+    <text id="By_creating_an_account_you_agree_to_our_Terms_of_Service_and_Privacy_Policy" data-name="By creating an account you agree to our
+Terms of Service and Privacy Policy" transform="translate(214 874)" font-size="15" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-143.364" y="0">By creating an account you agree to our</tspan><tspan x="-128.258" y="20">Terms of Service and Privacy Policy</tspan></text>
+    <g id="Input" transform="translate(29 247.143)">
+      <g id="Adgangskode" transform="translate(0 486.857)">
+        <g id="Area" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <g id="Checkbox" transform="translate(20 17)">
+          <g id="Area-2" data-name="Area" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+            <rect width="33" height="32" stroke="none"/>
+            <rect x="1" y="1" width="31" height="30" fill="none"/>
+          </g>
+          <path id="Check" d="M0,0V6.359H11.607" transform="translate(10.029 15.708) rotate(-45)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0"/>
+          <text id="Adgangskode-2" data-name="Adgangskode" transform="translate(51 23)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Mand</tspan></text>
+        </g>
+        <g id="Checkbox-2" data-name="Checkbox" transform="translate(237 17)">
+          <g id="Area-3" data-name="Area" transform="translate(81)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+            <rect width="32" height="32" stroke="none"/>
+            <rect x="1" y="1" width="30" height="30" fill="none"/>
+          </g>
+          <path id="Check-2" data-name="Check" d="M0,0V6.359H11.607" transform="translate(90.5 15.708) rotate(-45)" fill="none" stroke="#3e3e3e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" opacity="0"/>
+          <text id="Adgangskode-3" data-name="Adgangskode" transform="translate(0 23)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Kvinde</tspan></text>
+        </g>
+      </g>
+      <g id="Adgangskode-4" data-name="Adgangskode" transform="translate(0 416.857)">
+        <g id="Area-4" data-name="Area" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Kode" transform="translate(14 42)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Gentag_Adgangskode" data-name="Gentag Adgangskode" transform="translate(233 8)" fill="#3e3e3e" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="18">Gentag </tspan><tspan x="0" y="41">Adgangskode</tspan></text>
+      </g>
+      <g id="Adgangskode-5" data-name="Adgangskode" transform="translate(0 346.643)">
+        <g id="Area-5" data-name="Area" transform="translate(0 0.214)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="kode-2" data-name="kode" transform="translate(14 42.214)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Adgangskode-6" data-name="Adgangskode" transform="translate(238 40.214)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Adgangskode</tspan></text>
+      </g>
+      <g id="Adresse" transform="translate(0 276.535)">
+        <g id="Area-6" data-name="Area" transform="translate(0 0.321)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Adresse-2" data-name="Adresse" transform="translate(14 42.321)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Adresse-3" data-name="Adresse" transform="translate(242 40.321)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Post nr. By</tspan></text>
+        <text id="Adresse-4" data-name="Adresse" transform="translate(106 42.321)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------------</tspan></text>
+      </g>
+      <g id="Adresse-5" data-name="Adresse" transform="translate(0 206.428)">
+        <g id="Area-7" data-name="Area" transform="translate(0 0.428)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Adresse-6" data-name="Adresse" transform="translate(14 42.428)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Adresse-7" data-name="Adresse" transform="translate(247 41.428)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Addresse</tspan></text>
+      </g>
+      <g id="Fødselsdag" transform="translate(0 137.321)">
+        <g id="Area-8" data-name="Area" transform="translate(0 -0.465)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Dato" transform="translate(14 41.535)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--/--/----</tspan></text>
+        <text id="Fødselsdag-2" data-name="Fødselsdag" transform="translate(247 40.535)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Fødselsdag</tspan></text>
+      </g>
+      <g id="Email" transform="translate(0 67.214)">
+        <g id="Area-9" data-name="Area" transform="translate(0 -0.357)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Email-2" data-name="Email" transform="translate(14 41.643)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Email-3" data-name="Email" transform="translate(247 40.643)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Email</tspan></text>
+      </g>
+      <g id="Navn" transform="translate(0 -3)">
+        <g id="Area-10" data-name="Area" transform="translate(0 -0.143)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Navn-2" data-name="Navn" transform="translate(14 41.857)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Fulde_Navn" data-name="Fulde Navn" transform="translate(247 40.857)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Fulde Navn</tspan></text>
+      </g>
+      <g id="Kalde_navn" data-name="Kalde navn" transform="translate(0 -73)">
+        <g id="Area-11" data-name="Area" transform="translate(0 -0.143)" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+          <rect width="370" height="66" stroke="none"/>
+          <rect x="1" y="1" width="368" height="64" fill="none"/>
+        </g>
+        <text id="Navn-3" data-name="Navn" transform="translate(14 41.857)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="25" font-family="ArialMT, Arial"><tspan x="0" y="0">--------</tspan></text>
+        <text id="Fulde_Navn-2" data-name="Fulde Navn" transform="translate(247 40.857)" fill="#3e3e3e" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="20" font-family="ArialMT, Arial"><tspan x="0" y="0">Kalde Navn</tspan></text>
+      </g>
+    </g>
+    <g id="Opret_bruger-2" data-name="Opret bruger" transform="translate(51 806)">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="327" height="48" fill="url(#linear-gradient)"/>
+      <text id="Opret_Bruger-3" data-name="Opret Bruger" transform="translate(163 33)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-37.988" y="0">Videre</tspan></text>
+    </g>
+    <text id="Opret_en_bruger" data-name="Opret en bruger" transform="translate(29 135)" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="27">Opret en bruger</tspan></text>
+    <g id="Navigation_Bar" data-name="Navigation Bar">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="428" height="20" fill="#fff"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="428" height="100" transform="translate(0 20)" fill="url(#linear-gradient-2)"/>
+      <text id="App_navn" data-name="App navn" transform="translate(215 83)" fill="#fff" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-91.113" y="0">App navn</tspan></text>
+      <g id="Backward_arrow" data-name="Backward arrow" transform="translate(10 67)">
+        <path id="Path_10" data-name="Path 10" d="M20.395,0,16.687,3.708,30.724,17.746H0v5.3H30.724L16.687,37.081l3.708,3.708L40.789,20.395Z" transform="translate(40.789 40.789) rotate(180)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Progress_Bar" data-name="Progress Bar" transform="translate(-5 120)">
+      <path id="Track_-_total" data-name="Track - total" d="M0,0H424" transform="translate(4)" fill="none" stroke="#ec9ea0" stroke-linecap="round" stroke-width="10"/>
+      <path id="Track_-_active" data-name="Track - active" d="M0,0H107" transform="translate(5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+      <path id="Track_-_active-2" data-name="Track - active" d="M0,0H107" transform="translate(911)" fill="none" stroke="#4d0e0f" stroke-linecap="round" stroke-width="10"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.572" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bf2a2d"/>
+      <stop offset="1" stop-color="#540001"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" xlink:href="#linear-gradient"/>
+    <clipPath id="clip-Søger">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="Søger" clip-path="url(#clip-Søger)">
+    <rect width="428" height="926" fill="#fff"/>
+    <g id="Navigation_Bar" data-name="Navigation Bar">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="428" height="20" fill="#fff"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="428" height="100" transform="translate(0 20)" fill="url(#linear-gradient)"/>
+      <text id="App_navn" data-name="App navn" transform="translate(215 83)" fill="#fff" font-size="40" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-91.113" y="0">App navn</tspan></text>
+      <g id="Backward_arrow" data-name="Backward arrow" transform="translate(10 67)">
+        <path id="Path_10" data-name="Path 10" d="M20.395,0,16.687,3.708,30.724,17.746H0v5.3H30.724L16.687,37.081l3.708,3.708L40.789,20.395Z" transform="translate(40.789 40.789) rotate(180)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Progress_Bar" data-name="Progress Bar" transform="translate(0 120)">
+      <path id="Track_-_total" data-name="Track - total" d="M0,0H424" transform="translate(4)" fill="none" stroke="#ec9ea0" stroke-linecap="round" stroke-width="10"/>
+      <path id="Track_-_active" data-name="Track - active" d="M0,0H428" fill="none" stroke="#000" stroke-linecap="round" stroke-width="10"/>
+    </g>
+    <g id="Videre" transform="translate(51 739)">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="327" height="48" fill="url(#linear-gradient-2)"/>
+      <text id="Opret_Bruger" data-name="Opret Bruger" transform="translate(163 33)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="25" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-37.988" y="0">Videre</tspan></text>
+    </g>
+    <g id="Leder_efter" data-name="Leder efter" transform="translate(0 -378)">
+      <g id="Titel">
+        <rect id="Rectangle_123" data-name="Rectangle 123" width="227" height="37" rx="10" transform="translate(101 519)" fill="url(#linear-gradient-2)"/>
+        <text id="Jeg_leder_efter_en" data-name="Jeg leder efter en" transform="translate(122 527)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-82.813" y="18">Jeg leder efter en</tspan></text>
+      </g>
+      <g id="Ikke_relevant" data-name="Ikke relevant" transform="translate(-3 392)">
+        <g id="Rectangle_124" data-name="Rectangle 124" transform="translate(121 249)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+          <rect width="192" height="46" rx="10" stroke="none"/>
+          <rect x="1.5" y="1.5" width="189" height="43" rx="8.5" fill="none"/>
+        </g>
+        <text id="Ikke_relevant-2" data-name="Ikke relevant" transform="translate(133 258)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="23.904" y="18">Ikke relevant</tspan></text>
+      </g>
+      <g id="Mand" transform="translate(-84 389)">
+        <g id="Rectangle_124-2" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+          <rect width="147" height="46" rx="10" stroke="none"/>
+          <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+        </g>
+        <text id="Mand-2" data-name="Mand" transform="translate(166 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="22.392" y="18">Mand</tspan></text>
+      </g>
+      <g id="Kvinde" transform="translate(83 389)">
+        <g id="Rectangle_124-3" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+          <rect width="147" height="46" rx="10" stroke="none"/>
+          <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+        </g>
+        <text id="Kvinde-2" data-name="Kvinde" transform="translate(166 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="15.16" y="18">Kvinde</tspan></text>
+      </g>
+    </g>
+    <g id="Partner" transform="translate(-84 264)">
+      <g id="Rectangle_124-4" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+        <rect width="147" height="46" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+      </g>
+      <text id="Rejsemakker" transform="translate(151 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="2.786" y="18">Rejsemakker</tspan></text>
+    </g>
+    <g id="Partner-2" data-name="Partner" transform="translate(83 265)">
+      <g id="Rectangle_124-5" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+        <rect width="147" height="46" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+      </g>
+      <text id="Hygge_club" data-name="Hygge club" transform="translate(141 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="18.104" y="18">Hygge club</tspan></text>
+    </g>
+    <g id="Partner-3" data-name="Partner" transform="translate(83 198)">
+      <g id="Rectangle_124-6" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+        <rect width="147" height="46" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+      </g>
+      <text id="Venskab" transform="translate(166 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="7.919" y="18">Venskab</tspan></text>
+    </g>
+    <g id="Partner-4" data-name="Partner" transform="translate(-84 199)">
+      <g id="Rectangle_124-7" data-name="Rectangle 124" transform="translate(141 186)" fill="#fff" stroke="#4d0e0f" stroke-width="3">
+        <rect width="147" height="46" rx="10" stroke="none"/>
+        <rect x="1.5" y="1.5" width="144" height="43" rx="8.5" fill="none"/>
+      </g>
+      <text id="Partner-5" data-name="Partner" transform="translate(166 195)" fill="#4d0e0f" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="13.485" y="18">Partner</tspan></text>
+    </g>
+    <g id="Titel-2" data-name="Titel" transform="translate(0 -191)">
+      <rect id="Rectangle_123-2" data-name="Rectangle 123" width="227" height="37" rx="10" transform="translate(101 519)" fill="url(#linear-gradient-2)"/>
+      <text id="Jeg_ønsker" data-name="Jeg ønsker" transform="translate(122 527)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-52.803" y="18">Jeg ønsker</tspan></text>
+    </g>
+  </g>
+</svg>
