@@ -443,6 +443,9 @@
     background-color: #292727;
     color: #eeeeee;
   }
+  .footer p {
+    font-size: 10px;
+  }
   .wrapper_single_project {
     display: grid;
     grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
