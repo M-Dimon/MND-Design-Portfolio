@@ -302,17 +302,20 @@
     text-align: center;
     padding-left: 10px;
   }
+  .about-pic h2 {
+    font-size: 20px;
+  }
   .about {
     grid-area: content;
     text-align: center;
     padding: 10px;
   }
   .about h1 {
-    font-size: 40px;
+    font-size: 20px;
     text-decoration: underline;
   }
   .about p {
-    font-size: 20px;
+    font-size: 10px;
   }
   .headshot {
     border-radius: 50%;
@@ -336,7 +339,7 @@
     border-bottom: 5px solid #292727;
   }
   .competence h1 {
-    font-size: 40px;
+    font-size: 20px;
     text-decoration: underline;
   }
   .code_container{
@@ -362,7 +365,7 @@
     transform: translate(-50%, -50%);
   }
   .centered_text b {
-    font-size: 40px;
+    font-size: 20px;
     color: #bba488;
   }
   .contact-text {
@@ -371,10 +374,10 @@
     justify-content: center;
   }
   .contact-text h1 {
-    font-size: 40px;
+    font-size: 20px;
   }
   .contact-text p {
-    font-size: 20px;
+    font-size: 10px;
   }
   .aside-left1 {
     grid-area: aleft1;
@@ -388,7 +391,7 @@
   .projects h1 {
     text-align: center;
     text-decoration: underline;
-    font-size: 40px;
+    font-size: 20px;
   }
   .row {
     display: -ms-flexbox;
@@ -457,12 +460,12 @@
   }
   .project-container h1 {
     text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     text-decoration: underline;
   }
   .project-container p {
     text-align: left;
-    font-size: 20px;
+    font-size: 10px;
   }
   .side-project-left {
     grid-area: pleft;
