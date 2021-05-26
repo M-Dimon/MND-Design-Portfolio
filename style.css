@@ -69,6 +69,9 @@
   text-align: center;
   padding-left: 10px;
 }
+.about-pic h2 {
+  font-size: 35px;
+}
 .about {
   grid-area: content;
   text-align: center;
