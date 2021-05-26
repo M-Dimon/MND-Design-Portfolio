@@ -290,7 +290,7 @@
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 10px 12px;
+    padding: 8px 10px;
     text-decoration: none;
     font-size: 13px;
   }
@@ -301,6 +301,14 @@
   .top-nav a.active {
     background-color: #42576b;
     color: white;
+  }
+  .logo {
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    width: 30px;
+    height: 30px;
+    margin: 1px;
   }
   .header-container {
     grid-area: header;
