@@ -244,6 +244,14 @@
   text-align: left;
   font-size: 20px;
 }
+.project-container img {
+  max-width: 33%;
+  max-height: 33%;
+}
+.project-container embed {
+  max-width: 33%;
+  max-height: 33%;
+}
 .side-project-left {
   grid-area: pleft;
 }
