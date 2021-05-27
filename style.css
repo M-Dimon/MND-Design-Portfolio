@@ -10,6 +10,7 @@
   "aleft1 con-text con-text con-text aright1"
   "footer footer footer footer footer";
 }
+
 .wrapper_project {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr 1fr 0.5fr;
@@ -20,6 +21,7 @@
   "aleft projects projects projects aright"
   "footer footer footer footer footer";
 }
+
 * body {
   margin: 0;
   font-family: Arial, sans-serif;
