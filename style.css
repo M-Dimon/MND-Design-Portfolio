@@ -509,6 +509,18 @@
     text-align: left;
     font-size: 10px;
   }
+  .small_pic {
+    max-width: 33%;
+    max-height: 33%;
+  }
+  .long_pic {
+    max-width: 100%;
+    max-height: 66%:
+  }
+  .tall_pic {
+    max-width: 33%;
+    max-height: 66%;
+  }
   .side-project-left {
     grid-area: pleft;
   }
